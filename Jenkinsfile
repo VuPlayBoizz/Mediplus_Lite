@@ -16,7 +16,7 @@ pipeline {
     //             }
     //         }
     //     }
-    // }
+    }
     // post {
     //     always {
     //         mail bcc: '', body: 'Deploy', cc: '', from: '', replyTo: '', subject: 'Tesst Jenkins', to: 'nguyenbavu1902@gmail.com'
